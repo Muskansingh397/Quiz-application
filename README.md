@@ -1,2 +1,2 @@
 # Quiz-application
-Tricky and funny questions
+"Think Fast.Play Free."
